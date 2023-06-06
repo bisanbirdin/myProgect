@@ -1,0 +1,17 @@
+GET localhost/sources
+
+###
+
+GET localhost/themes
+
+###
+
+GET localhost/news?page=2
+
+###
+
+GET localhost/news/source/2?page=1
+
+###
+
+GET localhost/news/theme/3
